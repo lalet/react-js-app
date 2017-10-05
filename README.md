@@ -1,3 +1,3 @@
 *Sample React JS App*
 
-[title] https://lalet.github.io/react-js-app/ 
+https://lalet.github.io/react-js-app/ 
